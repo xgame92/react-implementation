@@ -1,4 +1,4 @@
-### When Should I  use Stateless or Class Components
+### When Should I  use Class Components or Stateless
 
 |   Class Component |   Stateless Component |
 | ------------ | ------------ |
