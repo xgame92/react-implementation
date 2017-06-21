@@ -2,7 +2,7 @@
 
 |   Class Component |   Stateless Component |
 | ------------ | ------------ |
-| State  | Everyhere else :smile |
+| State  | Everyhere else |
 | Refs  |   |
 | Lifecycle methods  |   |
 | Child functions ( for performance)  |    |
